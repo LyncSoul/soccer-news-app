@@ -1,14 +1,21 @@
 <resources>
     <string name="app_name">Soccer News</string>
 
-    <string name="title_news">News</string>
-    <string name="title_favorites">Favorites</string>
+    <string name="title_news">O que temos de novo?</string>
+    <string name="title_favorites">Você favoritou</string>
 
     <string name="cd_news_image">News image.</string>
     <string name="cd_favorite_icon">Favorite icon.</string>
     <string name="cd_share_icon">Share icon.</string>
 
-    <string name="txt_open_link">Open Link</string>
+    <string name="txt_open_link">Visualizar</string>
 
     <string name="error_network">Network error.</string>
+
+    <string name="email">E-mail</string>
+    <string name="senha">Senha</string>
+    <string name="entrar">Entrar</string>
+    <string name="txt_cadastre_se">Ainda não tem uma conta?</string>
+    <string name="txt_cadastro">Crie agora!</string>
+    <string name="txt_ou">OU</string>
 </resources>
